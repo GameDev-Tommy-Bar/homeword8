@@ -1,4 +1,5 @@
 # home work 8
+[play](https://tommy-bar.itch.io/homework-8)
 ## we need to add 3 things from a list
 ### we choose to add this things
 #### first the abilatiy to jump , just add force to y pos and staitment of "if"
